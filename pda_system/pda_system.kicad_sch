@@ -4,6 +4,14 @@
 
   (paper "A4")
 
+  (title_block
+    (title "PDA_sensor_module")
+    (date "2023-11-16")
+    (rev "0.0.1")
+    (company "None")
+    (comment 1 "First revision of data logging sensor module")
+  )
+
   (lib_symbols
     (symbol "Connector:Screw_Terminal_01x04" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (id 0) (at 0 5.08 0)
