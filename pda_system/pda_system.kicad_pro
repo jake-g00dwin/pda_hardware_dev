@@ -320,6 +320,14 @@
     [
       "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
       ""
+    ],
+    [
+      "5ffeb525-fdbf-4755-b592-8d08c6d7cfa4",
+      "dc_dc_converter"
+    ],
+    [
+      "5c858850-a41f-49c6-9b99-446d78ce9910",
+      "can_module"
     ]
   ],
   "text_variables": {}
