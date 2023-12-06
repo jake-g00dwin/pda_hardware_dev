@@ -378,6 +378,11 @@
     (uuid ff4a3f9d-6109-4eec-951d-2eaf949d1785)
   )
 
+  (bus_entry (at 165.1 90.17) (size 2.54 2.54)
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 0bc5f728-39c7-490d-98b4-0eee4342d454)
+  )
+
   (wire (pts (xy 124.46 115.57) (xy 127 115.57))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 1e392ddb-46cc-4c2e-a45f-6f39a943d011)
