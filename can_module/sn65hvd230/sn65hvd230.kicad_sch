@@ -261,7 +261,6 @@
     )
   )
 
-
   (junction (at 179.07 91.44) (diameter 0) (color 0 0 0 0)
     (uuid 24a49b0b-1463-4345-9773-b55898812cf8)
   )
@@ -480,6 +479,23 @@
   (label "CANL" (at 179.07 102.87 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid f648ec30-404e-45bc-99e9-aec68d06cd32)
+  )
+
+  (hierarchical_label "CAN_D" (shape input) (at 119.38 97.79 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 1073baa5-6cb2-4149-a0e4-1d961d5fcd77)
+  )
+  (hierarchical_label "CAN_R" (shape input) (at 119.38 95.25 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 689c22fd-eb5f-477c-8c6f-74997457d7c3)
+  )
+  (hierarchical_label "CAN_VCC" (shape input) (at 116.84 90.17 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 6907a513-46ab-428b-abf3-c0499ebfcdf9)
+  )
+  (hierarchical_label "CAN_GND" (shape input) (at 113.03 110.49 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 7e99b62f-224b-468e-9f03-255056d14bc1)
   )
 
   (symbol (lib_id "Interface_CAN_LIN:SN65HVD230") (at 157.48 93.98 0) (unit 1)
