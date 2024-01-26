@@ -261,6 +261,7 @@
     )
   )
 
+
   (junction (at 179.07 91.44) (diameter 0) (color 0 0 0 0)
     (uuid 24a49b0b-1463-4345-9773-b55898812cf8)
   )
@@ -501,7 +502,7 @@
   (symbol (lib_id "Interface_CAN_LIN:SN65HVD230") (at 157.48 93.98 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 0f54db53-a272-4955-88fb-d7ab00657bb0)
-    (property "Reference" "U1" (id 0) (at 159.4994 83.82 0)
+    (property "Reference" "U2" (id 0) (at 159.4994 83.82 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "SN65HVD230" (id 1) (at 159.4994 86.36 0)
