@@ -494,8 +494,8 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 6907a513-46ab-428b-abf3-c0499ebfcdf9)
   )
-  (hierarchical_label "CAN_GND" (shape input) (at 113.03 110.49 0)
-    (effects (font (size 1.27 1.27)) (justify left))
+  (hierarchical_label "CAN_GND" (shape input) (at 113.03 110.49 270)
+    (effects (font (size 1.27 1.27)) (justify right))
     (uuid 7e99b62f-224b-468e-9f03-255056d14bc1)
   )
 
