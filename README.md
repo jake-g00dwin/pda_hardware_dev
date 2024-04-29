@@ -2,8 +2,12 @@
 A repo for all the hardware and wiring schematics.
 
 
-Currently The main focus is on creating a usable schematic just for wiring 
-purposes.
+
+## PCB Modular Version Preview
+![ModulearSystem](modular_system.jpeg "Modular System")
+
+This version of the PCB is focused on being able to swap out componets 
+rapidly.
 
 ## Schematic Preview
 
