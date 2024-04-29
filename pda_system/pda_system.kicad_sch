@@ -509,7 +509,6 @@
     )
   )
 
-
   (junction (at 191.77 43.18) (diameter 0) (color 0 0 0 0)
     (uuid 6df721f9-3bde-4715-b1e7-f1d2c757eadd)
   )
@@ -556,6 +555,7 @@
   (no_connect (at 46.99 59.69) (uuid 3d013d91-893f-41b4-9e63-9f6c44ee85eb))
   (no_connect (at 46.99 57.15) (uuid 3d013d91-893f-41b4-9e63-9f6c44ee85ec))
   (no_connect (at 46.99 54.61) (uuid 3d013d91-893f-41b4-9e63-9f6c44ee85ed))
+  (no_connect (at 135.89 129.54) (uuid 7722366f-3f4b-4efa-b9d5-924c84efa487))
 
   (polyline (pts (xy 114.3 124.46) (xy 172.72 124.46))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -725,14 +725,6 @@
   (label "SWDIO" (at 127 132.08 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid d4153157-09a8-40b3-9f22-afa031be3229)
-  )
-
-  (global_label "3.3v" (shape bidirectional) (at 135.89 129.54 180) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify right))
-    (uuid 46f6cdbf-7c02-4756-9137-745472573eb0)
-    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 129.4855 129.4606 0)
-      (effects (font (size 1.27 1.27)) (justify right) hide)
-    )
   )
 
   (symbol (lib_id "Connector:Screw_Terminal_01x02") (at 266.7 22.86 0) (unit 1)
@@ -1024,20 +1016,11 @@
     (path "/48fc0f63-60a4-496b-b34a-e179f8909f53"
       (reference "#FLG0101") (unit 1) (value "PWR_FLAG") (footprint "")
     )
-    (path "/4a734e8c-369c-4bb8-b786-a974b034cd31/1c3627f9-1535-4f55-a7b1-ecb389a7d580"
-      (reference "#PWR01") (unit 1) (value "GND") (footprint "")
-    )
     (path "/5ffeb525-fdbf-4755-b592-8d08c6d7cfa4/c382b12a-2eb6-4570-9871-f5e05861e641"
       (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
     )
     (path "/5ffeb525-fdbf-4755-b592-8d08c6d7cfa4/eeda3e8d-d957-4303-86da-e54dfe0cb57e"
       (reference "#PWR0102") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/5ffeb525-fdbf-4755-b592-8d08c6d7cfa4/70018adf-6148-4891-83ef-ee27182e14a7"
-      (reference "#PWR0103") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/5ffeb525-fdbf-4755-b592-8d08c6d7cfa4/09991386-3ca9-41ea-998b-6b5a7f1d0820"
-      (reference "#PWR0104") (unit 1) (value "GND") (footprint "")
     )
     (path "/5ffeb525-fdbf-4755-b592-8d08c6d7cfa4/9418a57a-e863-4341-8372-869e517e0a51"
       (reference "#PWR0105") (unit 1) (value "GND") (footprint "")
@@ -1053,9 +1036,6 @@
     )
     (path "/b647231c-63ff-4400-8712-720883bb8a2f"
       (reference "#PWR0109") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/5ffeb525-fdbf-4755-b592-8d08c6d7cfa4/d3b5210f-4575-4cdb-879a-cce5a3bdb0ec"
-      (reference "#PWR0110") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/84e94d67-7ab9-4218-b657-7d37f6b0badb"
       (reference "#PWR0111") (unit 1) (value "GND") (footprint "")
