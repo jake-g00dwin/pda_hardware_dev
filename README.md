@@ -12,3 +12,15 @@ rapidly.
 ## Schematic Preview
 
 ![Schematic](schematic.png "Schematic")
+
+## Enclosures
+
+**Modular Enclosure:**
+
+- 3D printable.
+- Ready for 3mm brass inserts
+- Standoffs modeled.
+- 5MM mounting holes.
+- 17.5mm bulkhead hole for gx16 avaiation style connectors.
+
+
