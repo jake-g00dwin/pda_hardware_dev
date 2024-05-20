@@ -801,7 +801,7 @@
   (gr_text "I2C_SENSOR_MOUNT" (at 120.75 84.75) (layer "F.SilkS") (tstamp dec228f0-c5fe-4e1a-b7e2-5e3f2f10210f)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (gr_text "sensor_module(modular v0.1)\nDATE: 2024-05-01" (at 124.25 95.5) (layer "F.SilkS") (tstamp f8c0718a-9ca9-4f70-a9d5-35370e99ad5a)
+  (gr_text "sensor_module(modular v0.2)\nDATE: 2024-05-20" (at 124.25 95.5) (layer "F.SilkS") (tstamp f8c0718a-9ca9-4f70-a9d5-35370e99ad5a)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (dimension (type aligned) (layer "F.SilkS") (tstamp 68b9bf51-c246-4292-9f02-3ef95431c3d7)
